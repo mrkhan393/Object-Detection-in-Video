@@ -1,0 +1,13 @@
+# Annotation file
+path: 
+# Training and Validation
+train: images/train
+val: images/val
+# Classes
+names:
+  0: Pillar
+  1: Building
+  2: Car
+  3: Motorcycle
+  4: Person
+
